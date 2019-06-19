@@ -1,0 +1,3 @@
+hlp@hlp-Lenovo-G405:~$ sudo rm /var/lib/dpkg/lock
+hlp@hlp-Lenovo-G405:~$ sudo dpkg --configure -a
+hlp@hlp-Lenovo-G405:~$ sudo apt update
